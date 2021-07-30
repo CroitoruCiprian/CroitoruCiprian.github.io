@@ -1,0 +1,28 @@
+body{background-color: gray;}
+table{
+    margin-top: 400px;
+    margin-left:auto;
+    margin-right: auto;
+    
+}
+th, td {
+    border: 1px solid rgb(58, 220, 215);
+    border-radius: 5px;
+    border-width: 2px;
+    color: rgb(255,255,255);
+  }
+  th{
+      font-family: Saraburn,sans-serif,serif;
+  }
+  td{
+      font-family: gruppo, sans-serif,serif;
+      text-align: left;
+      
+  }
+  a {
+    color:rgb(255,255,255);
+    text-decoration: none;}
+  a:hover{
+      background-color: rgb(92, 3, 3);
+      
+  }
